@@ -1,0 +1,27 @@
+{
+  "fullName": "",
+  "phoneNumber": "",
+  "address": "",
+  "email": "",
+  "cart": [
+    {
+      "name": "Grind",
+      "processor": "AMD Ryzen 5 5600G",
+      "processorCores": "6",
+      "processorClockSpeed": "3.5 GHz",
+      "graphicsCard": "Radeon Vega 7",
+      "graphicsCardVRAM": "-",
+      "memoryType": "DDR4",
+      "memorySize": "16 GB",
+      "storageType": "SSD",
+      "storageSize": "1 TB",
+      "caseDimensions": "210 x 475 x 430 mm",
+      "motherboardModel": "ASRock B550M",
+      "motherboardFeatures": "RGB lighting",
+      "powerSupplyModel": "Apevia Galaxy 650",
+      "powerSupplyWattage": "650W",
+      "price": "450$",
+      "pic": "study3"
+    }
+  ]
+}

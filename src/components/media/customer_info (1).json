@@ -1,0 +1,107 @@
+{
+  "fullName": "",
+  "phoneNumber": "",
+  "address": "",
+  "email": "",
+  "cart": [
+    {
+      "name": "Intel Core i5 13600K",
+      "image": "13600K",
+      "price": 450,
+      "category": "cpu",
+      "cores": 14,
+      "friquency": "2.6GHz",
+      "socket": "LGA1700",
+      "sale": 10,
+      "PriceOnSale": 405
+    },
+    {
+      "name": "ASRock RX7900XT",
+      "image": "ASROCK7900XT",
+      "price": 1200,
+      "category": "gpu",
+      "VRAM": "20gb",
+      "friquency": "1.5GHz",
+      "bit": "320",
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "Gigabyte B650 AORUS ELITE AX",
+      "image": "AORUSB650",
+      "price": 220,
+      "category": "motherboard",
+      "chipset": "B650",
+      "formfactor": "ATX",
+      "socket": "AM5",
+      "ramslots": 4,
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "G.Skill Trident Z5 RGB",
+      "image": "GSKILLTRIDENTZ5RGB",
+      "price": 110,
+      "category": "ram",
+      "friquency": "6000Mhz",
+      "generation": "DDR5",
+      "capacity": "16GB x 2",
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "Samsung 990 Pro",
+      "price": 220,
+      "image": "SAMSUNG990PRO",
+      "category": "ssd",
+      "readspead": "7450Mb/s",
+      "writespead": "6900Mb/s",
+      "capacity": "2TB",
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "WD Caviar Blue",
+      "price": 60,
+      "image": "WDCAVIARBLUE",
+      "category": "hdd",
+      "spins": "7200p/Min",
+      "capacity": "1TB",
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "DeepCool Ak400",
+      "price": 45,
+      "image": "DEEPCOOLAK400",
+      "category": "cooler",
+      "type": "Воздушное",
+      "noize": "28Db",
+      "sockets": "LGA1700,AM5,AM4,LGA1200,LGA1151,LGA1151v2,LGA1151",
+      "TDP": 220,
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "DeepCool PK700D",
+      "price": 70,
+      "image": "DEEPCOOLPK700D",
+      "category": "PSU",
+      "sertification": "Бронзовый(КПД 80%+)",
+      "formfactor": "ATX",
+      "power": "700w",
+      "sale": 0,
+      "PriceOnSale": 0
+    },
+    {
+      "name": "Montech AIR 1000",
+      "price": 75,
+      "image": "MONTECHAIR100",
+      "category": "case",
+      "type": "Mid tower",
+      "formfactors": "ATX,Micro ATX,MiniATX",
+      "sale": 0,
+      "PriceOnSale": 0
+    }
+  ]
+}
